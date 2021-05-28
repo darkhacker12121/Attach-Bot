@@ -11,9 +11,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 FayasNoushad = Client(
     "Telegram Attach Bot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    bot_token = os.environ["1838208004:AAEIfateOCJEKLWBI2UXuy3XBW_RFn6NJiw"],
+    api_id = int(os.environ["1733305"]),
+    api_hash = os.environ["f423cffca6b5b7247b31b5b0df61f48d"]
 )
 
 START_TEXT = """
