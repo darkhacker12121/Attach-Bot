@@ -11,7 +11,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 FayasNoushad = Client(
     "Telegram Attach Bot",
-    bot_token = "1838208004:AAEIfateOCJEKLWBI2UXuy3XBW_RFn6NJiw"],
+    bot_token = "1559250481:AAGjlhNsBB9_p0nqp-xTJPW6lqqZfyLh7Lo",
     api_id = 1733305,
     api_hash = 'f423cffca6b5b7247b31b5b0df61f48d"
 )
